@@ -1,0 +1,6 @@
+ATELIER 09 / MEDIA NOTES
+
+- atelier-09-cover.webp, atelier-09-experience-board.webp, atelier-09-editorial-study.webp and atelier-09-studio-overview.webp are newly generated art-directed visual-study boards inspired by the supplied Luxury, Space and Studio references. They are not pixel-perfect captures of the live website.
+- atelier-09-system-map.svg is an original vector diagram of the single-domain route architecture.
+- atelier-09-luxury-film.mp4 and atelier-09-space-film.mp4 are edited showcase films based on the supplied site recordings. They use designed intro/end cards, cleaned page framing, section captions, color treatment and transitions. They are silent and optimized for muted inline playback.
+- The original raw screenshots and source recordings are not shipped as individual gallery stills.

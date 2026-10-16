@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d13"/><stop offset=".55" stop-color="#0c131d"/><stop offset="1" stop-color="#080b10"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0d5a1"/><stop offset="1" stop-color="#9c6e2e"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8bf4ff"/><stop offset="1" stop-color="#1f8bba"/></linearGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#94a5ba" stroke-opacity=".08"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1440" height="960" rx="26" fill="url(#bg)"/><rect width="1440" height="960" rx="26" fill="url(#grid)"/>
+<text x="76" y="86" fill="#83edf7" font-family="monospace" font-size="18" letter-spacing="5">SYSTEM MAP / 01</text>
+<text x="76" y="150" fill="#f3f1eb" font-family="Arial, sans-serif" font-size="51" font-weight="500">One domain. Three routes.</text>
+<text x="76" y="192" fill="#8f9aaa" font-family="Arial, sans-serif" font-size="22">A shared Next.js experience with distinct front-end worlds and a private local studio.</text>
+<rect x="76" y="250" width="1288" height="112" rx="16" fill="#151d29" stroke="#324154"/>
+<text x="112" y="294" fill="#879bb0" font-family="monospace" font-size="16" letter-spacing="3">SINGLE DEPLOYMENT</text>
+<text x="112" y="334" fill="#f4f1e8" font-family="Arial, sans-serif" font-size="30">atelier-lux.netlify.app</text>
+<circle cx="1288" cy="306" r="9" fill="#78e7f4" filter="url(#glow)"/>
+<path d="M720 362V418M296 418H1144M296 418V464M720 418V464M1144 418V464" fill="none" stroke="#536477" stroke-width="2"/>
+<circle cx="296" cy="418" r="5" fill="#f0cc88"/><circle cx="720" cy="418" r="5" fill="#7beaf5"/><circle cx="1144" cy="418" r="5" fill="#ef77c8"/>
+<rect x="76" y="464" width="416" height="236" rx="18" fill="#151511" stroke="#a88651" stroke-opacity=".75"/>
+<text x="112" y="510" fill="#cda76c" font-family="monospace" font-size="16" letter-spacing="3">01 / LUXURY</text>
+<text x="112" y="566" fill="#f4eee0" font-family="Georgia, serif" font-size="43">Atelier 09</text>
+<text x="112" y="608" fill="#b7b1a6" font-family="Arial, sans-serif" font-size="19">Jewellery · materials · editorial motion</text>
+<rect x="112" y="642" width="190" height="34" rx="17" fill="#30261a" stroke="#b18d56"/>
+<text x="132" y="664" fill="#eed7ac" font-family="monospace" font-size="15">/luxury</text>
+<rect x="512" y="464" width="416" height="236" rx="18" fill="#0c1924" stroke="#3f9fbb" stroke-opacity=".82"/>
+<text x="548" y="510" fill="#70e4f4" font-family="monospace" font-size="16" letter-spacing="3">02 / SPACE</text>
+<text x="548" y="566" fill="#f1f6fb" font-family="Arial, sans-serif" font-size="43">NOVA / 01</text>
+<text x="548" y="608" fill="#a9bbc9" font-family="Arial, sans-serif" font-size="19">Earth · missions · systems · timeline</text>
+<rect x="548" y="642" width="160" height="34" rx="17" fill="#112b3b" stroke="#3f9fbb"/>
+<text x="568" y="664" fill="#a6f6ff" font-family="monospace" font-size="15">/space</text>
+<rect x="948" y="464" width="416" height="236" rx="18" fill="#14141d" stroke="#af65aa" stroke-opacity=".78"/>
+<text x="984" y="510" fill="#e990d5" font-family="monospace" font-size="16" letter-spacing="3">03 / STUDIO</text>
+<text x="984" y="566" fill="#f3f1fb" font-family="Arial, sans-serif" font-size="43">Admin</text>
+<text x="984" y="608" fill="#b6b4c7" font-family="Arial, sans-serif" font-size="19">Content · media · preview · publish</text>
+<rect x="984" y="642" width="150" height="34" rx="17" fill="#2b1a2a" stroke="#af65aa"/>
+<text x="1004" y="664" fill="#f5afe4" font-family="monospace" font-size="15">/admin</text>
+<rect x="76" y="756" width="1288" height="128" rx="16" fill="#111923" stroke="#293849"/>
+<text x="112" y="800" fill="#7ee8f4" font-family="monospace" font-size="16" letter-spacing="3">SHARED FOUNDATION</text>
+<text x="112" y="843" fill="#edf0f4" font-family="Arial, sans-serif" font-size="22">Next.js · React · TypeScript · Three.js / R3F · WebGL · Framer Motion · LocalStorage</text>
+<text x="112" y="868" fill="#8390a1" font-family="Arial, sans-serif" font-size="16">Public routes share one deployment; browser-local studio preferences remain origin-specific.</text>
+</svg>
